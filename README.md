@@ -11,7 +11,7 @@ Credit to [this guy][4] here for providing some code and hints for a solution to
 
 Credit to [this guy][3] here for doing this for the version 2 of spring boot.
 
-Credit to [this guy][2] here for doing this for the even older versions of spring boot.
+Credit to [this guy][2] here for doing this for version 1.5 of spring boot.
 
 [1]: https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-web-applications.html#boot-features-jsp-limitations
 [2]: http://hengyunabc.github.io/spring-boot-fat-jar-jsp-sample/
