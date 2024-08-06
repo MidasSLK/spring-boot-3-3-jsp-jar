@@ -1,4 +1,4 @@
-### spring-boot-examples
+### Spring boot 3.3 serving jsp files and run as a jar file
 Recently, I ran into an issue with a colleague trying to upgrade some old jsp-based projects to use spring boot and run them in containers. This repo provides examples of how to get a jsp application using spring-boot and running an embedded tomcat servlet container to be packaged and run as a jar.
 
 It contains maven projects. The application runs with an embedded tomcat container and a jar packaging. 
