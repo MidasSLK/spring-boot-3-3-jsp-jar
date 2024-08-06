@@ -6,8 +6,11 @@ It contains maven projects. The application runs with an embedded tomcat contain
 - This is not straight-forward due to certain [limitations][1] with jsps
 
 If for whatever reason, you can't deal with a war packaging, there's a bit of a hack you can try. 
+
 Credit to [this guy][4] here for providing some code and hints for a solution to version 3.3 of spring boot.
+
 Credit to [this guy][3] here for doing this for the version 2 of spring boot.
+
 Credit to [this guy][2] here for doing this for the even older versions of spring boot.
 
 [1]: https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-web-applications.html#boot-features-jsp-limitations
