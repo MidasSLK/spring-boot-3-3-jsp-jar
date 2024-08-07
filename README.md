@@ -7,11 +7,11 @@ It contains maven projects. The application runs with an embedded tomcat contain
 
 If for whatever reason, you can't deal with a war packaging, there's a bit of a hack you can try. 
 
-Credit to [this guy][4] here for providing some code and hints for a solution to version 3.3 of spring boot.
+Credit to [tesmo][4] here for providing some code and hints for a solution to version 3.3 of spring boot.
 
-Credit to [this guy][3] here for doing this for the version 2 of spring boot.
+Credit to [code4kix][3] here for doing this for the version 2 of spring boot.
 
-Credit to [this guy][2] here for doing this for version 1.5 of spring boot.
+Credit to [hengyunabc][2] here for doing this for version 1.5 of spring boot.
 
 [1]: https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-web-applications.html#boot-features-jsp-limitations
 [2]: http://hengyunabc.github.io/spring-boot-fat-jar-jsp-sample/
